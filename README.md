@@ -5,6 +5,12 @@ This module brings you the new Re-desgined OnePlus Font for any android device.I
 
 (For android 10 users :- don't forget to change the font to Arvo/Lato)
 
+## Help ##
+You can join our group if  you face any issue. Join the group here :- https://t.me/ModuleMagic
+
+## Screenshots ##
+Check out the font screenshots in below link :- https://drive.google.com/open?id=1WECp_GEapKv5LMWD6tu8foY0VdjDJF79
+
 ## Testing devices ##
 * [Tesing Device] OnePlus 3T Android Pie
 * [Tesing Device] OnePlus 7 Pro Android Pie/Q
