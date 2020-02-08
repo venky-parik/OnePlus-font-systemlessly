@@ -3,7 +3,7 @@
 ## What this module does? ##
 This module brings you the new Re-desgined OnePlus Font for any android device.It apply's systemlessly on your device which means, your apps and all other types of settings font will be changed to Oneplus Font.
 
-(For android 10 users :- don't forget to change the font to Arvo/Lato)
+(For android 10 users :- If you're font doesn't changes.Then go to Styles and wallpapers and change the font to Arvo/Lato)
 
 ## Help ##
 You can join our group if  you face any issue. Join the group here :- https://t.me/ModuleMagic
